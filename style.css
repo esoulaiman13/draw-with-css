@@ -76,12 +76,12 @@
 }
 .beard{
     background-color: black;
-    width: 148px;
+    width: 110px;
     height: 119px;
     border-radius: 0 0 50% 50%;
     position: absolute;
     top: 94px;
-    left: 164px;
+    left: 183px;
     z-index: 4;
 }
 .beard2{
